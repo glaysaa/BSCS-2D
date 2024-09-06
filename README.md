@@ -1,2 +1,1 @@
-# LUCERO-Glaiza-M. 
-BSCS-2D
+BSCS 2D
